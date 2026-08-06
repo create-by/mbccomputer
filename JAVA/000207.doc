@@ -1,4 +1,4 @@
-001
+001    add
 
 import java.util.ArrayList;
 
@@ -13,9 +13,7 @@ public class Sample {
 
 
 
-
-
-002
+002    get
 
 import java.util.ArrayList;
 
@@ -31,9 +29,7 @@ public class Sample {
 
 
 
-
-
-003
+003    다양한 방법으로 ArrayList 만들기
 
 import java.util.ArrayList;
 
@@ -49,9 +45,7 @@ public class Sample {
 
 
 
-
-
-004
+004    
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -63,8 +57,6 @@ public class Sample {
         System.out.println(pitches);  // [138, 129, 142] 출력
     }
 }
-
-
 
 
 
@@ -82,9 +74,7 @@ public class Sample {
 
 
 
-
-
-006
+006    String.join
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -104,8 +94,6 @@ public class Sample {
 
 
 
-
-
 007
 
 import java.util.ArrayList;
@@ -121,8 +109,6 @@ public class Sample {
 
 
 
-
-
 008
 
 public class Sample {
@@ -135,9 +121,7 @@ public class Sample {
 
 
 
-
-
-009
+009    리스트 정렬하기
 
 import java.util.ArrayList;
 import java.util.Arrays;
