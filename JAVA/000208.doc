@@ -1,4 +1,4 @@
-001  put
+001    put
 
 import java.util.HashMap;
 
@@ -12,7 +12,7 @@ public class Sample {
 
 
 
-002  get
+002    get
 
 import java.util.HashMap;
 
@@ -27,7 +27,7 @@ public class Sample {
 
 
 
-003  keySet
+003    keySet
 
 import java.util.HashMap;
 
